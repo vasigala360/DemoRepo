@@ -14,4 +14,8 @@ public void addCase(){
 public void addOpportunity(){
 	
 }
+//Added by Pawan
+public void addTask(){
+	
+}
 }
