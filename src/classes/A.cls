@@ -5,5 +5,9 @@ public class A{
 public void addContact(){
 	
 }
+//Added by Pawan
+public void addCase(){
+	
+}
 
 }
